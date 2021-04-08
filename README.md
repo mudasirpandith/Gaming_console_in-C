@@ -1,2 +1,2 @@
-# Gaming_console_in-C
+# Gaming_console 
 Tic tac toe||Snakes and ladders||Die rolling 
